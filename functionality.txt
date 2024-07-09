@@ -1,0 +1,129 @@
+FUNCTIONALITIES OF LEARNIFY
+
+edit course content ---- done
+group management ---- done
+announcement ---- done
+course invitation  ----  done
+
+filter users on division - done
+add task for students
+
+
+ADMIN PAGES ---------------
+
+
+admin - dashboard
+admin - course list
+admin - course index list
+admin - course heading list
+admin - course content page
+admin - notification
+
+admin division-wise student list
+
+admin - add user
+admin - add course - index - topic - content
+admin - add notification
+
+admin - delete user
+admin - delete course - index - topic - content
+admin - delete notification
+
+//
+
+forum : 
+	student id 
+	message
+	image
+	time
+
+admin : 
+	show in table : student name, text, time
+
+
+
+
+quiz --- pending / cancel
+
+group management ---- done
+
+announcement ---- Done
+course invitation  ----  done
+
+to do list ---- pending / cancel
+
+task
+	task id
+	task name
+	description
+	last date
+	start time
+	status
+
+
+uploaders
+	task id             ------ foreign key ( task )
+	user id             ------ foreign key ( users_data )
+	file
+	uplaod time
+	
+
+
+
+
+
+
+//
+
+announcements : 
+	send announcements to all students or to any one division's students
+	at student side, show only all division and students's division notifications
+
+division wise students :
+	using a drop down to view student list based on current divisons
+
+
+course invitation : 
+	when new course added, a card will show up in dashboard { click to accept invitation }
+	when click, inner content is accessable and course disappears from dashboard and shoes in my courses section { start learning }
+
+task assignment :
+	add a task with deadline
+	when deadline pass, button disables
+	completed tasks are shown below with info
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
